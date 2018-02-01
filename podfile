@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Evo' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Evo
+
+
+pod 'Firebase/Core'
+pod 'Firebase/Database'
+pod 'Firebase/Auth'
+pod 'Firebase/Storage'
+pod 'Firebase/Messaging'
+pod 'LBTAComponents', '~> 0.1.9'
+pod 'IQKeyboardManagerSwift'
+pod 'GoogleMaps', '~> 2.1'
+pod 'GooglePlaces', '~> 2.1'
+pod 'Kingfisher', '~> 3.0'
+pod 'KSTokenView'
+pod 'CLTokenInputView'
+pod 'SkyFloatingLabelTextField', '~> 3.0'
+pod 'FontAwesome.swift'
+
+
+end

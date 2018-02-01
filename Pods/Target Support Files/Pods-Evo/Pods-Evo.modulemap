@@ -1,0 +1,6 @@
+framework module Pods_Evo {
+  umbrella header "Pods-Evo-umbrella.h"
+
+  export *
+  module * { export * }
+}
